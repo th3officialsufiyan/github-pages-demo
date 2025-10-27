@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  CI: true
+  CI: false
 
 jobs:
   build:
